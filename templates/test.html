@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Test</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="timer">Time Remaining: <span id="countdown">30:00</span></div>
+        
+        <div class="box">
+            <h2>Answer the Following Questions</h2>
+            
+            {% for q_type, questions in questions.items() %}
+            <h3>{{ q_type|title }}</h3>
+            {% for i, question in enumerate(questions) %}
+            <div class="question-box">
+                <p>{{ i+1 }}. {{ question.question }}</p>
+                
+                {% if q_type == 'mcqs' %}
+                <div class="options">
+                    {% for option in question.options %}
+                    <label>
+                        <input type="radio" name="mcq_{{ i }}" value="{{ option }}">
+                        {{ option }}
+                    </label>
+                    {% endfor %}
+                </div>
+                {% else %}
+                <textarea name="desc_{{ i }}"></textarea>
+                {% endif %}
+            </div>
+            {% endfor %}
+            {% endfor %}
+
+            <button onclick="readQuestionsAloud()">Read Questions Aloud</button>
+            <button onclick="submitAnswers()">Submit Answers</button>
+        </div>
+    </div>
+
+    <script>
+        // Timer functionality
+        let timeLeft = 30 * 60; // 30 minutes in seconds
+        const timerElement = document.getElementById('countdown');
+
+        setInterval(() => {
+            const minutes = Math.floor(timeLeft / 60);
+            const seconds = timeLeft % 60;
+            timerElement.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+            timeLeft--;
+            
+            if (timeLeft <= 0) {
+                alert('Time\'s up!');
+                submitAnswers();
+            }
+        }, 1000);
+
+        // Speech synthesis
+        function readQuestionsAloud() {
+            const questions = document.querySelectorAll('.question-box p');
+            const utterance = new SpeechSynthesisUtterance();
+            
+            utterance.onend = () => {
+                if (utterances.length > 0) {
+                    speechSynthesis.speak(utterances.pop());
+                }
+            };
+            
+            const utterances = Array.from(questions).map(q => {
+                const u = new SpeechSynthesisUtterance(q.textContent);
+                u.lang = 'en-US';
+                return u;
+            });
+            
+            speechSynthesis.speak(utterances.pop());

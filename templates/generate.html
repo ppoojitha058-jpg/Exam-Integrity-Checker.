@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ title }} - Generated Questions</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>{{ title }} - Generated Questions</h1>
+
+    <!-- MCQs -->
+    <h2>MCQs</h2>
+    <form action="{{ url_for('submit') }}" method="post">
+      {% for q in mcqs %}
+        <div class="question-block">
+          <p><strong>Q{{ loop.index }}:</strong> {{ q.question }}</p>
+          <ul>
+            {% for opt, label in [('A', q.options[0]), ('B', q.options[1]), ('C', q.options[2]), ('D', q.options[3])] %}
+              <li>
+                <input type="radio" name="mcq_{{ loop.parent.index0 }}" value="{{ opt }}" id="mcq_{{ loop.parent.index0 }}_{{ opt }}">
+                <label for="mcq_{{ loop.parent.index0 }}_{{ opt }}">{{ opt }}: {{ label }}</label>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endfor %}
+
+      <!-- Short Questions -->
+      <h2>Short Questions</h2>
+      {% for q in short_qs %}
+        <div class="question-block">
+          <p><strong>Q{{ loop.index }}:</strong> {{ q.question }}</p>
+          <textarea name="short_{{ loop.index0 }}" rows="2" cols="50" placeholder="Your answer..."></textarea>
+        </div>
+      {% endfor %}
+
+      <!-- Long Questions -->
+      <h2>Long Questions</h2>
+      {% for q in long_qs %}
+        <div class="question-block">
+          <p><strong>Q{{ loop.index }}:</strong> {{ q.question }}</p>
+          <textarea name="long_{{ loop.index0 }}" rows="4" cols="70" placeholder="Your detailed answer..."></textarea>
+        </div>
+      {% endfor %}
+
+      <!-- Student Name -->
+      <div class="question-block">
+        <label for="student_name">Your Name:</label>
+        <input type="text" name="student_name" id="student_name" placeholder="Anonymous">
+      </div>
+
+      <button type="submit">Submit Answers</button>
+    </form>
+
+    <p><a href="{{ url_for('index') }}">Back to Home</a></p>
+  </div>
+</body>
+</html>
