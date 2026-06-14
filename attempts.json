@@ -1,0 +1,339 @@
+[
+  {
+    "student_name": "",
+    "timestamp": "2025-11-25T10:32:36.047918",
+    "mcq_score": 0.0,
+    "short_score": 0.0,
+    "long_score": 0.0,
+    "total": 0.0,
+    "possible": 8.0,
+    "percent": 0.0,
+    "mcq_results": [
+      {
+        "question": "In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "selected": null,
+        "correct": "A",
+        "score": 0.0,
+        "explanation": "Based on the sentence: \"In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.\". The key term is 'Power'."
+      },
+      {
+        "question": "When you use Enter Data from the Home tab, you can manually type values into a small table window.",
+        "selected": null,
+        "correct": "B",
+        "score": 0.0,
+        "explanation": "Based on the sentence: \"When you use Enter Data from the Home tab, you can manually type values into a small table window.\". The key term is 'When'."
+      },
+      {
+        "question": "After you click Load, the table will appear in the Fields pane, and simply selecting the columns will automatically generate a default visual on the report canvas.",
+        "selected": null,
+        "correct": "C",
+        "score": 0.0,
+        "explanation": "Based on the sentence: \"After you click Load, the table will appear in the Fields pane, and simply selecting the columns will automatically generate a default visual on the report canvas.\". The key term is 'After'."
+      },
+      {
+        "question": "Similarly, in DAX formulas, whenever you write a column or measure name inside brackets (for example, [Sales] or [Total Amount]), Power BI recognizes it as a field.",
+        "selected": null,
+        "correct": "D",
+        "score": 0.0,
+        "explanation": "Based on the sentence: \"Similarly, in DAX formulas, whenever you write a column or measure name inside brackets (for example, [Sales] or [Total Amount]), Power BI recognizes it as a field.\". The key term is 'Similarly'."
+      },
+      {
+        "question": "When you drag that field onto the canvas, Power BI instantly creates a visual using that data.",
+        "selected": null,
+        "correct": "A",
+        "score": 0.0,
+        "explanation": "Based on the sentence: \"When you drag that field onto the canvas, Power BI instantly creates a visual using that data.\". The key term is 'When'."
+      }
+    ],
+    "short_results": [
+      {
+        "question": "Give the main term related to: 'you' or describe it briefly.",
+        "expected": "you",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Give the main term related to: 'power' or describe it briefly.",
+        "expected": "power",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      }
+    ],
+    "long_results": [
+      {
+        "question": "Explain in detail: In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "expected": "In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "student_name": "",
+    "timestamp": "2025-11-25T10:37:36.701295",
+    "mcq_score": 0.0,
+    "short_score": 0.0,
+    "long_score": 0.0,
+    "total": 0.0,
+    "possible": 15.0,
+    "percent": 0.0,
+    "mcq_results": [
+      {
+        "question": "In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "selected": null,
+        "correct": "A",
+        "score": 0.0,
+        "explanation": "Based on the sentence: \"In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.\". The key term is 'Power'."
+      }
+    ],
+    "short_results": [
+      {
+        "question": "Give the main term related to: 'you' or describe it briefly.",
+        "expected": "you",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Give the main term related to: 'power' or describe it briefly.",
+        "expected": "power",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Give the main term related to: 'fields' or describe it briefly.",
+        "expected": "fields",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Give the main term related to: 'data' or describe it briefly.",
+        "expected": "data",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Give the main term related to: 'using' or describe it briefly.",
+        "expected": "using",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Give the main term related to: 'brackets' or describe it briefly.",
+        "expected": "brackets",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Give the main term related to: 'dax' or describe it briefly.",
+        "expected": "dax",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Give the main term related to: 'will' or describe it briefly.",
+        "expected": "will",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Give the main term related to: 'visual' or describe it briefly.",
+        "expected": "visual",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      }
+    ],
+    "long_results": [
+      {
+        "question": "Explain in detail: In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "expected": "In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Explain in detail: After you click Load, the table will appear in the Fields pane, and simply selecting the columns will automatically generate a default visual on the report canvas.",
+        "expected": "After you click Load, the table will appear in the Fields pane, and simply selecting the columns will automatically generate a default visual on the report canvas.",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Explain in detail: When you drag that field onto the canvas, Power BI instantly creates a visual using that data.",
+        "expected": "When you drag that field onto the canvas, Power BI instantly creates a visual using that data.",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Explain in detail: In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "expected": "In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Explain in detail: After you click Load, the table will appear in the Fields pane, and simply selecting the columns will automatically generate a default visual on the report canvas.",
+        "expected": "After you click Load, the table will appear in the Fields pane, and simply selecting the columns will automatically generate a default visual on the report canvas.",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "student_name": "",
+    "timestamp": "2025-11-25T10:38:43.802092",
+    "mcq_score": 3.0,
+    "short_score": 0.0,
+    "long_score": 0.0,
+    "total": 3.0,
+    "possible": 8.0,
+    "percent": 37.5,
+    "mcq_results": [
+      {
+        "question": "In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "selected": "A",
+        "correct": "A",
+        "score": 1.0,
+        "explanation": "Based on the sentence: \"In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.\". The key term is 'Power'."
+      },
+      {
+        "question": "When you use Enter Data from the Home tab, you can manually type values into a small table window.",
+        "selected": "B",
+        "correct": "B",
+        "score": 1.0,
+        "explanation": "Based on the sentence: \"When you use Enter Data from the Home tab, you can manually type values into a small table window.\". The key term is 'When'."
+      },
+      {
+        "question": "After you click Load, the table will appear in the Fields pane, and simply selecting the columns will automatically generate a default visual on the report canvas.",
+        "selected": "C",
+        "correct": "C",
+        "score": 1.0,
+        "explanation": "Based on the sentence: \"After you click Load, the table will appear in the Fields pane, and simply selecting the columns will automatically generate a default visual on the report canvas.\". The key term is 'After'."
+      },
+      {
+        "question": "Similarly, in DAX formulas, whenever you write a column or measure name inside brackets (for example, [Sales] or [Total Amount]), Power BI recognizes it as a field.",
+        "selected": null,
+        "correct": "D",
+        "score": 0.0,
+        "explanation": "Based on the sentence: \"Similarly, in DAX formulas, whenever you write a column or measure name inside brackets (for example, [Sales] or [Total Amount]), Power BI recognizes it as a field.\". The key term is 'Similarly'."
+      },
+      {
+        "question": "When you drag that field onto the canvas, Power BI instantly creates a visual using that data.",
+        "selected": null,
+        "correct": "A",
+        "score": 0.0,
+        "explanation": "Based on the sentence: \"When you drag that field onto the canvas, Power BI instantly creates a visual using that data.\". The key term is 'When'."
+      }
+    ],
+    "short_results": [
+      {
+        "question": "Give the main term related to: 'you' or describe it briefly.",
+        "expected": "you",
+        "student": "hi",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Give the main term related to: 'power' or describe it briefly.",
+        "expected": "power",
+        "student": "power as business analytical tool",
+        "similarity": 0.26,
+        "score": 0.0
+      }
+    ],
+    "long_results": [
+      {
+        "question": "Explain in detail: In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "expected": "In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      }
+    ]
+  },
+  {
+    "student_name": "",
+    "timestamp": "2025-11-25T10:39:11.867283",
+    "mcq_score": 2.0,
+    "short_score": 0.0,
+    "long_score": 0.0,
+    "total": 2.0,
+    "possible": 8.0,
+    "percent": 25.0,
+    "mcq_results": [
+      {
+        "question": "In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "selected": "A",
+        "correct": "A",
+        "score": 1.0,
+        "explanation": "Based on the sentence: \"In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.\". The key term is 'Power'."
+      },
+      {
+        "question": "When you use Enter Data from the Home tab, you can manually type values into a small table window.",
+        "selected": "B",
+        "correct": "B",
+        "score": 1.0,
+        "explanation": "Based on the sentence: \"When you use Enter Data from the Home tab, you can manually type values into a small table window.\". The key term is 'When'."
+      },
+      {
+        "question": "After you click Load, the table will appear in the Fields pane, and simply selecting the columns will automatically generate a default visual on the report canvas.",
+        "selected": null,
+        "correct": "C",
+        "score": 0.0,
+        "explanation": "Based on the sentence: \"After you click Load, the table will appear in the Fields pane, and simply selecting the columns will automatically generate a default visual on the report canvas.\". The key term is 'After'."
+      },
+      {
+        "question": "Similarly, in DAX formulas, whenever you write a column or measure name inside brackets (for example, [Sales] or [Total Amount]), Power BI recognizes it as a field.",
+        "selected": null,
+        "correct": "D",
+        "score": 0.0,
+        "explanation": "Based on the sentence: \"Similarly, in DAX formulas, whenever you write a column or measure name inside brackets (for example, [Sales] or [Total Amount]), Power BI recognizes it as a field.\". The key term is 'Similarly'."
+      },
+      {
+        "question": "When you drag that field onto the canvas, Power BI instantly creates a visual using that data.",
+        "selected": null,
+        "correct": "A",
+        "score": 0.0,
+        "explanation": "Based on the sentence: \"When you drag that field onto the canvas, Power BI instantly creates a visual using that data.\". The key term is 'When'."
+      }
+    ],
+    "short_results": [
+      {
+        "question": "Give the main term related to: 'you' or describe it briefly.",
+        "expected": "you",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      },
+      {
+        "question": "Give the main term related to: 'power' or describe it briefly.",
+        "expected": "power",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      }
+    ],
+    "long_results": [
+      {
+        "question": "Explain in detail: In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "expected": "In Power BI, you can quickly create visuals by entering your own data or by using fields written inside brackets in DAX.",
+        "student": "",
+        "similarity": 0.0,
+        "score": 0.0
+      }
+    ]
+  }
+]
