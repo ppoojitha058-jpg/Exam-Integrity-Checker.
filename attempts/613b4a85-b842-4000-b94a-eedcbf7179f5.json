@@ -1,0 +1,128 @@
+{
+  "student_name": "p",
+  "timestamp": "2025-11-27 13:30:24",
+  "mcqs": [
+    {
+      "question": "Which term best describes: 'a remarkable and ever-changing world that surrounds us, encompassing everything from vast forests an...'?",
+      "options": [
+        "ever-changing",
+        "Nature",
+        "beauty",
+        "structures"
+      ],
+      "answer": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Fill in the blank: 'Nature is a remarkable and ever-changing world that surrounds us, encompassing everything from vast forests and towering mountains to gentle rivers an...'",
+      "options": [
+        "future",
+        "reconnect",
+        "gentle",
+        "blooming"
+      ],
+      "answer": "blooming",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: 'It sustains life by providing _____ air, water, and food, while also offering a sense of peace and inspiration'",
+      "options": [
+        "Experiencing",
+        "experiencing",
+        "quiet",
+        "clean"
+      ],
+      "answer": "clean",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: 'The intricate balance of ecosystems shows how every living thing, from the smallest insect to the largest _____, plays a vital role'",
+      "options": [
+        "rivers",
+        "environment",
+        "nature",
+        "animal"
+      ],
+      "answer": "animal",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: 'Experiencing nature helps us reconnect with the environment, reminding us of the _____ and complexity beyond human-made structures'",
+      "options": [
+        "largest",
+        "Experiencing",
+        "beyond",
+        "beauty"
+      ],
+      "answer": "beauty",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: '_____ in a quiet park or deep wilderness, nature invites us to appreciate its wonders and to protect it for future generations.'",
+      "options": [
+        "blooming",
+        "deep",
+        "Whether",
+        "animal"
+      ],
+      "answer": "Whether",
+      "difficulty": "hard"
+    }
+  ],
+  "mcq_answers": [
+    "Nature",
+    "future",
+    "clean",
+    "nature",
+    "beauty",
+    "Whether"
+  ],
+  "descriptives": [
+    {
+      "question": "Explain Experiencing in detail with examples from the text.",
+      "keywords": [
+        "Experiencing",
+        "Whether",
+        "Nature",
+        "nature",
+        "also"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Describe the significance of Whether and its applications.",
+      "keywords": [
+        "Whether",
+        "Experiencing",
+        "Nature",
+        "nature",
+        "also"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Compare and contrast Nature and nature. Explain their relationship and differences based on the text.",
+      "keywords": [
+        "Nature",
+        "nature",
+        "Experiencing",
+        "Whether",
+        "also"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "desc_answers": [
+    "Nature is a remarkable and ever-changing world that surrounds us, encompassing everything from vast forests and towering mountains to gentle rivers and blooming flowers. It sustains life by providing clean air, water, and food, while also offering a sense of peace and inspiration. The intricate balance of ecosystems shows how every living thing, from the smallest insect to the largest animal, plays a vital role. Experiencing nature helps us reconnect with the environment, reminding us of the beauty and complexity beyond human-made structures. Whether in a quiet park or deep wilderness, nature invites us to appreciate its wonders and to protect it for future generations.",
+    "Nature is a remarkable and ever-changing world that surrounds us, encompassing everything from vast forests and towering mountains to gentle rivers and blooming flowers. It sustains life by providing clean air, water, and food, while also offering a sense of peace and inspiration. The intricate balance of ecosystems shows how every living thing, from the smallest insect to the largest animal, plays a vital role. Experiencing nature helps us reconnect with the environment, reminding us of the beauty and complexity beyond human-made structures. Whether in a quiet park or deep wilderness, nature invites us to appreciate its wonders and to protect it for future generations.",
+    "Nature is a remarkable and ever-changing world that surrounds us, encompassing everything from vast forests and towering mountains to gentle rivers and blooming flowers. It sustains life by providing clean air, water, and food, while also offering a sense of peace and inspiration. The intricate balance of ecosystems shows how every living thing, from the smallest insect to the largest animal, plays a vital role. Experiencing nature helps us reconnect with the environment, reminding us of the beauty and complexity beyond human-made structures. Whether in a quiet park or deep wilderness, nature invites us to appreciate its wonders and to protect it for future generations."
+  ],
+  "score_data": {
+    "total_score": 19.7,
+    "max_score": 21,
+    "percentage": 93.81,
+    "mcq_score": 8,
+    "mcq_correct": 4,
+    "desc_score": 11.7
+  }
+}

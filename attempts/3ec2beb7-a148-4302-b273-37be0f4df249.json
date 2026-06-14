@@ -1,0 +1,178 @@
+{
+  "student_name": "prathibha",
+  "timestamp": "2025-11-25 19:09:03",
+  "mcqs": [
+    {
+      "question": "According to the text, what is one of the main topics discussed?",
+      "options": [
+        "publicly",
+        "account",
+        "Click",
+        "Create"
+      ],
+      "answer": "publicly",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following terms is most relevant to the lesson?",
+      "options": [
+        "account",
+        "Click",
+        "Create",
+        "publicly"
+      ],
+      "answer": "publicly",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Based on the lesson, which statement best represents the core concept?",
+      "options": [
+        "Statement A: Focus on practical application",
+        "Statement B: Theoretical foundation is key",
+        "Statement C: Both theory and practice matter",
+        "Statement D: None of the above"
+      ],
+      "answer": "Statement C: Both theory and practice matter",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What key concept is mentioned in the lesson?",
+      "options": [
+        "uploaded",
+        "accessible",
+        "Create",
+        "workbook"
+      ],
+      "answer": "workbook",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What key concept is mentioned in the lesson?",
+      "options": [
+        "uploaded",
+        "Click",
+        "workbook",
+        "Desktop"
+      ],
+      "answer": "Click",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What key concept is mentioned in the lesson?",
+      "options": [
+        "workbook",
+        "account",
+        "Workbook",
+        "Tableau"
+      ],
+      "answer": "account",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What key concept is mentioned in the lesson?",
+      "options": [
+        "Workbook",
+        "workbook",
+        "Public",
+        "Create"
+      ],
+      "answer": "Public",
+      "difficulty": "hard"
+    }
+  ],
+  "mcq_answers": [
+    "",
+    "Click",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "descriptives": [
+    {
+      "question": "Summarize the main idea of the lesson in your own words.",
+      "keywords": [
+        "publicly",
+        "account",
+        "Click",
+        "Create",
+        "uploaded"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "Explain the key concepts discussed in the lesson with examples.",
+      "keywords": [
+        "publicly",
+        "account",
+        "Click",
+        "Create",
+        "uploaded",
+        "accessible",
+        "workbook"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "How can you apply the knowledge from this lesson in real-world scenarios? Provide detailed analysis.",
+      "keywords": [
+        "publicly",
+        "account",
+        "Click",
+        "Create",
+        "uploaded",
+        "accessible",
+        "workbook",
+        "Public",
+        "Workbook",
+        "Tableau"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "question": "What are the most important takeaways from this lesson? Explain in detail.",
+      "keywords": [
+        "publicly",
+        "account",
+        "Click",
+        "Create",
+        "uploaded",
+        "accessible",
+        "workbook",
+        "Public"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Critically analyze the main arguments presented in the lesson.",
+      "keywords": [
+        "publicly",
+        "account",
+        "Click",
+        "Create",
+        "uploaded",
+        "accessible",
+        "workbook",
+        "Public",
+        "Workbook"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "desc_answers": [
+    "xsaxadadaqqw",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "score_data": {
+    "total_score": 0.0,
+    "max_score": 29,
+    "percentage": 0.0,
+    "mcq_score": 0,
+    "mcq_correct": 0,
+    "desc_score": 0.0
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "student_name": "p",
+  "timestamp": "2025-11-27 13:32:16",
+  "mcqs": [
+    {
+      "question": "Fill in the blank: '_____ burst into color, attracting pollinators in a delicate dance of survival'",
+      "options": [
+        "Caves",
+        "life",
+        "Flowers",
+        "connect"
+      ],
+      "answer": "Flowers",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: '_____ harbor secrets, with canopies sheltering countless species in harmony'",
+      "options": [
+        "Fungi",
+        "Mexico",
+        "Camels",
+        "Forests"
+      ],
+      "answer": "Forests",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: '_____ hide underground rivers, dripping with stalactites over millennia'",
+      "options": [
+        "trees",
+        "Valleys",
+        "Ants",
+        "Caves"
+      ],
+      "answer": "Caves",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: '_____ skies explode with stars, unpolluted by city lights'",
+      "options": [
+        "dusk",
+        "Children",
+        "Pollution",
+        "Night"
+      ],
+      "answer": "Night",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: '_____ pollinate, ensuring harvests'",
+      "options": [
+        "Thunderstorms",
+        "Camping",
+        "Careful",
+        "Honeybees"
+      ],
+      "answer": "Honeybees",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: '_____ shifts challenge balance, warmer seas bleaching corals'",
+      "options": [
+        "Honeybees",
+        "Climate",
+        "Protection",
+        "ancient"
+      ],
+      "answer": "Climate",
+      "difficulty": "hard"
+    }
+  ],
+  "mcq_answers": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "descriptives": [
+    {
+      "question": "Explain Children in detail with examples from the text.",
+      "keywords": [
+        "Children",
+        "Bioluminescence",
+        "Fireflies",
+        "Careful",
+        "Flowers"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Describe the significance of Bioluminescence and its applications.",
+      "keywords": [
+        "Bioluminescence",
+        "Children",
+        "Fireflies",
+        "Careful",
+        "Flowers"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Compare and contrast Fireflies and Careful. Explain their relationship and differences based on the text.",
+      "keywords": [
+        "Fireflies",
+        "Careful",
+        "Children",
+        "Bioluminescence",
+        "Flowers"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "desc_answers": [
+    "",
+    "",
+    ""
+  ],
+  "score_data": {
+    "total_score": 0,
+    "max_score": 21,
+    "percentage": 0.0,
+    "mcq_score": 0,
+    "mcq_correct": 0,
+    "desc_score": 0
+  }
+}

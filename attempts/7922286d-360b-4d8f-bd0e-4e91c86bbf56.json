@@ -1,0 +1,135 @@
+{
+  "student_name": "prathibha",
+  "timestamp": "2025-11-25 18:57:55",
+  "mcqs": [
+    {
+      "question": "According to the text, what is one of the main topics discussed?",
+      "options": [
+        "Workbook",
+        "account",
+        "Public",
+        "publicly"
+      ],
+      "answer": "Workbook",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following terms is most relevant to the lesson?",
+      "options": [
+        "Create",
+        "account",
+        "Public",
+        "Workbook"
+      ],
+      "answer": "Create",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Based on the lesson, which statement best represents the core concept?",
+      "options": [
+        "Statement A: Focus on practical application",
+        "Statement B: Theoretical foundation is key",
+        "Statement C: Both theory and practice matter",
+        "Statement D: None of the above"
+      ],
+      "answer": "Statement C: Both theory and practice matter",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What key concept is mentioned in the lesson?",
+      "options": [
+        "Public",
+        "Tableau",
+        "account",
+        "publicly"
+      ],
+      "answer": "Tableau",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What key concept is mentioned in the lesson?",
+      "options": [
+        "workbook",
+        "Tableau",
+        "publicly",
+        "uploaded"
+      ],
+      "answer": "Tableau",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What key concept is mentioned in the lesson?",
+      "options": [
+        "Click",
+        "Desktop",
+        "publicly",
+        "account"
+      ],
+      "answer": "account",
+      "difficulty": "hard"
+    }
+  ],
+  "mcq_answers": [
+    "Workbook",
+    "Workbook",
+    "Statement A: Focus on practical application",
+    "Public",
+    "",
+    "account"
+  ],
+  "descriptives": [
+    {
+      "question": "Summarize the main idea of the lesson in your own words.",
+      "keywords": [
+        "Workbook",
+        "account",
+        "Public",
+        "publicly",
+        "Create"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "Explain the key concepts discussed in the lesson with examples.",
+      "keywords": [
+        "Workbook",
+        "account",
+        "Public",
+        "publicly",
+        "Create",
+        "Tableau",
+        "Click"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "How can you apply the knowledge from this lesson in real-world scenarios? Provide detailed analysis.",
+      "keywords": [
+        "Workbook",
+        "account",
+        "Public",
+        "publicly",
+        "Create",
+        "Tableau",
+        "Click",
+        "accessible",
+        "workbook",
+        "Desktop"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "desc_answers": [
+    "hhliggyjhn,m",
+    "",
+    ""
+  ],
+  "score_data": {
+    "total_score": 4.0,
+    "max_score": 21,
+    "percentage": 19.05,
+    "mcq_score": 4,
+    "mcq_correct": 2,
+    "desc_score": 0.0
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "student_name": "prat",
+  "timestamp": "2025-11-29 09:32:40",
+  "mcqs": [
+    {
+      "question": "What is discussed in the statement: 'Explain the main topic in detail with examples from the text'?",
+      "options": [
+        "answered",
+        "date",
+        "Date",
+        "topic"
+      ],
+      "answer": "topic",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is discussed in the statement: 'Describe the significance of the main topic and its applications'?",
+      "options": [
+        "descriptive",
+        "total",
+        "Choice",
+        "main"
+      ],
+      "answer": "main",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Fill in the blank: 'Smart Learning App - Exam Report\nStudent: prat\nDate: 2025-11-28 18:40:53\nScore Summary\nTotal Score: 0/9 (0.0%)\nMCQ Score: 0 (0 correct)\nDescriptive Sc...'",
+      "options": [
+        "descriptive",
+        "Choice",
+        "Keywords",
+        "examples"
+      ],
+      "answer": "Choice",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: '_____ the main topic in detail with examples from the text'",
+      "options": [
+        "examples",
+        "Explain",
+        "answer",
+        "Choice"
+      ],
+      "answer": "Explain",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: '[Difficulty: medium]\nYour _____: Not answered\nKeywords to include: the main topic, topic\nQ2'",
+      "options": [
+        "Smart",
+        "Answer",
+        "student",
+        "prat"
+      ],
+      "answer": "Answer",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: '_____ the significance of the main topic and its applications'",
+      "options": [
+        "detailed",
+        "date",
+        "Describe",
+        "summary"
+      ],
+      "answer": "Describe",
+      "difficulty": "hard"
+    }
+  ],
+  "mcq_answers": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "descriptives": [
+    {
+      "question": "Explain Smart in detail with examples from the text.",
+      "keywords": [
+        "Smart",
+        "Report",
+        "Date",
+        "Student",
+        "Choice"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Describe the significance of Report and its applications.",
+      "keywords": [
+        "Report",
+        "Smart",
+        "Date",
+        "Student",
+        "Choice"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Compare and contrast Date and Student. Explain their relationship and differences based on the text.",
+      "keywords": [
+        "Date",
+        "Student",
+        "Smart",
+        "Report",
+        "Choice"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "desc_answers": [
+    "",
+    "",
+    ""
+  ],
+  "score_data": {
+    "total_score": 0,
+    "max_score": 21,
+    "percentage": 0.0,
+    "mcq_score": 0,
+    "mcq_correct": 0,
+    "desc_score": 0
+  }
+}

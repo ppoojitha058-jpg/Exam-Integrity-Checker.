@@ -1,0 +1,135 @@
+{
+  "student_name": "p",
+  "timestamp": "2025-11-25 18:59:51",
+  "mcqs": [
+    {
+      "question": "According to the text, what is one of the main topics discussed?",
+      "options": [
+        "Public",
+        "workbook",
+        "Tableau",
+        "Click"
+      ],
+      "answer": "Public",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following terms is most relevant to the lesson?",
+      "options": [
+        "Public",
+        "workbook",
+        "Click",
+        "Tableau"
+      ],
+      "answer": "Click",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Based on the lesson, which statement best represents the core concept?",
+      "options": [
+        "Statement A: Focus on practical application",
+        "Statement B: Theoretical foundation is key",
+        "Statement C: Both theory and practice matter",
+        "Statement D: None of the above"
+      ],
+      "answer": "Statement C: Both theory and practice matter",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What key concept is mentioned in the lesson?",
+      "options": [
+        "Public",
+        "Workbook",
+        "publicly",
+        "Tableau"
+      ],
+      "answer": "Workbook",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What key concept is mentioned in the lesson?",
+      "options": [
+        "Create",
+        "uploaded",
+        "account",
+        "Public"
+      ],
+      "answer": "Public",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What key concept is mentioned in the lesson?",
+      "options": [
+        "account",
+        "Create",
+        "Workbook",
+        "Desktop"
+      ],
+      "answer": "account",
+      "difficulty": "medium"
+    }
+  ],
+  "mcq_answers": [
+    "Public",
+    "Click",
+    "",
+    "Public",
+    "",
+    "Desktop"
+  ],
+  "descriptives": [
+    {
+      "question": "Summarize the main idea of the lesson in your own words.",
+      "keywords": [
+        "Public",
+        "workbook",
+        "Tableau",
+        "Click",
+        "Workbook"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "Explain the key concepts discussed in the lesson with examples.",
+      "keywords": [
+        "Public",
+        "workbook",
+        "Tableau",
+        "Click",
+        "Workbook",
+        "publicly",
+        "account"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "How can you apply the knowledge from this lesson in real-world scenarios? Provide detailed analysis.",
+      "keywords": [
+        "Public",
+        "workbook",
+        "Tableau",
+        "Click",
+        "Workbook",
+        "publicly",
+        "account",
+        "Create",
+        "Desktop",
+        "uploaded"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "desc_answers": [
+    "xsaxadadaqqw",
+    "",
+    ""
+  ],
+  "score_data": {
+    "total_score": 4.0,
+    "max_score": 21,
+    "percentage": 19.05,
+    "mcq_score": 4,
+    "mcq_correct": 2,
+    "desc_score": 0.0
+  }
+}

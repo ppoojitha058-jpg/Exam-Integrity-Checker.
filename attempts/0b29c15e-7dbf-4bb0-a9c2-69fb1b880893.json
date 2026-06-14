@@ -1,0 +1,45 @@
+{
+  "student_name": "prat",
+  "timestamp": "2025-11-28 18:40:53",
+  "mcqs": [],
+  "mcq_answers": [],
+  "descriptives": [
+    {
+      "question": "Explain the main topic in detail with examples from the text.",
+      "keywords": [
+        "the main topic",
+        "topic"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Describe the significance of the main topic and its applications.",
+      "keywords": [
+        "the main topic",
+        "topic"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "How does the main topic contribute to the main topic? Provide a detailed explanation.",
+      "keywords": [
+        "the main topic",
+        "topic"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "desc_answers": [
+    "",
+    "",
+    ""
+  ],
+  "score_data": {
+    "total_score": 0,
+    "max_score": 9,
+    "percentage": 0.0,
+    "mcq_score": 0,
+    "mcq_correct": 0,
+    "desc_score": 0
+  }
+}

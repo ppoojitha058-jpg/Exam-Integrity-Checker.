@@ -1,0 +1,128 @@
+{
+  "student_name": "p",
+  "timestamp": "2025-11-27 13:21:53",
+  "mcqs": [
+    {
+      "question": "Which term refers to: 'the OSI model, which has seven layers'?",
+      "options": [
+        "link",
+        "more",
+        "Presentation",
+        "The most common model"
+      ],
+      "answer": "The most common model",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is discussed in the statement: 'The topmost Application layer provides network services to users through protocols like HTTP, FTP, SMTP, DNS, and more'?",
+      "options": [
+        "end-to-end",
+        "network",
+        "layer",
+        "protocols"
+      ],
+      "answer": "layer",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Fill in the blank: 'Computer networks are organized into different layers to make _____ easier, structured, and reliable'",
+      "options": [
+        "communication",
+        "Session",
+        "using",
+        "easier"
+      ],
+      "answer": "communication",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: 'The most common model is the OSI model, which has seven _____'",
+      "options": [
+        "enable",
+        "formats",
+        "layers",
+        "services"
+      ],
+      "answer": "layers",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: 'The Physical layer handles raw bits over wires, the Data Link layer manages MAC addresses and protocols like _____ and PPP, and the Network layer hand...'",
+      "options": [
+        "protocols",
+        "different",
+        "Ethernet",
+        "communication"
+      ],
+      "answer": "Ethernet",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: 'The Transport layer ensures end-to-end communication through _____ like TCP and UDP'",
+      "options": [
+        "Link",
+        "protocols",
+        "efficient",
+        "structured"
+      ],
+      "answer": "protocols",
+      "difficulty": "hard"
+    }
+  ],
+  "mcq_answers": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "descriptives": [
+    {
+      "question": "Explain Session in detail with examples from the text.",
+      "keywords": [
+        "Session",
+        "Data",
+        "ICMP",
+        "Presentation",
+        "Ethernet"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Describe the significance of Data and its applications.",
+      "keywords": [
+        "Data",
+        "Session",
+        "ICMP",
+        "Presentation",
+        "Ethernet"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Compare and contrast ICMP and Presentation. Explain their relationship and differences based on the text.",
+      "keywords": [
+        "ICMP",
+        "Presentation",
+        "Session",
+        "Data",
+        "Ethernet"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "desc_answers": [
+    "",
+    "",
+    ""
+  ],
+  "score_data": {
+    "total_score": 0,
+    "max_score": 21,
+    "percentage": 0.0,
+    "mcq_score": 0,
+    "mcq_correct": 0,
+    "desc_score": 0
+  }
+}

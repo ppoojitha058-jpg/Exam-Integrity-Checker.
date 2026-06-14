@@ -1,0 +1,128 @@
+{
+  "student_name": "prat",
+  "timestamp": "2025-11-29 10:25:31",
+  "mcqs": [
+    {
+      "question": "What is discussed in the statement: '**app.py** - Flask application (370 lines)\r\n   - Route handlers\r\n   - Question generation logic\r\n   - Scoring algorithms...'?",
+      "options": [
+        "Lines",
+        "scoring",
+        "Claude",
+        "Deploy"
+      ],
+      "answer": "Lines",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is discussed in the statement: 'Run the application\r\npython app.py\r\n\r\n# 4'?",
+      "options": [
+        "Libraries",
+        "Python",
+        "Multiple",
+        "From"
+      ],
+      "answer": "Python",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is discussed in the statement: 'Check browser console for errors\r\n\r\n---\r\n\r\n## \ud83c\udfc6 Achievements\r\n\r\n### Technical Achievements\r\n- \u2705 Full-stack application\r\n...'?",
+      "options": [
+        "Features",
+        "Desktop",
+        "analytics",
+        "HTML"
+      ],
+      "answer": "Features",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Fill in the blank: '# \ud83d\udd12 EXAM Integrity Checker - Complete Project _____\r\n\r\n## \ud83d\udccb Executive Summary\r\n\r\n**Project Name:** EXAM Integrity Checker  \r\n**Type:** AI-Powered Educ...'",
+      "options": [
+        "OpenXML",
+        "Overview",
+        "Body",
+        "Modern"
+      ],
+      "answer": "Overview",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: '_____ instant feedback and detailed analytics\r\n5'",
+      "options": [
+        "python",
+        "Deliver",
+        "Green",
+        "Error"
+      ],
+      "answer": "Deliver",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: 'Work offline without internet dependency\r\n\r\n---\r\n\r\n## \ud83c\udfd7\ufe0f System Architecture\r\n\r\n### High-Level Architecture\r\n\r\n```\r\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500...'",
+      "options": [
+        "question",
+        "Engine",
+        "Correct",
+        "Responsiveness"
+      ],
+      "answer": "Engine",
+      "difficulty": "hard"
+    }
+  ],
+  "mcq_answers": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "descriptives": [
+    {
+      "question": "Explain Overview in detail with examples from the text.",
+      "keywords": [
+        "Overview",
+        "Distractor",
+        "Choice",
+        "Keyboard",
+        "Required"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Describe the significance of Distractor and its applications.",
+      "keywords": [
+        "Distractor",
+        "Overview",
+        "Choice",
+        "Keyboard",
+        "Required"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "Compare and contrast Choice and Keyboard. Explain their relationship and differences based on the text.",
+      "keywords": [
+        "Choice",
+        "Keyboard",
+        "Overview",
+        "Distractor",
+        "Required"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "desc_answers": [
+    "",
+    "",
+    ""
+  ],
+  "score_data": {
+    "total_score": 0,
+    "max_score": 21,
+    "percentage": 0.0,
+    "mcq_score": 0,
+    "mcq_correct": 0,
+    "desc_score": 0
+  }
+}

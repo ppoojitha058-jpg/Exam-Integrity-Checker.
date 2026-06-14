@@ -1,0 +1,68 @@
+{
+  "student_name": "punya",
+  "timestamp": "2025-12-09 19:37:07",
+  "mcqs": [
+    {
+      "question": "Which term refers to: 'an overflowing of water onto land that is normally dry'?",
+      "options": [
+        "rainfall",
+        "absorb",
+        "Flooding",
+        "ability"
+      ],
+      "answer": "Flooding",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Fill in the blank: 'Flooding is an overflowing of water onto land that is _____ dry'",
+      "options": [
+        "occur",
+        "normally",
+        "when",
+        "water"
+      ],
+      "answer": "normally",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Fill in the blank: 'Floods can _____ during heavy rains, when ocean waves come on shore, when snow melts quickly, or when dams or levees break'",
+      "options": [
+        "come",
+        "normally",
+        "most",
+        "happen"
+      ],
+      "answer": "happen",
+      "difficulty": "hard"
+    }
+  ],
+  "mcq_answers": [
+    "",
+    "",
+    ""
+  ],
+  "descriptives": [
+    {
+      "question": "Explain Floods in detail with examples from the text.",
+      "keywords": [
+        "Floods",
+        "Flooding",
+        "Flash",
+        "Where",
+        "They"
+      ],
+      "difficulty": "medium"
+    }
+  ],
+  "desc_answers": [
+    ""
+  ],
+  "score_data": {
+    "total_score": 0,
+    "max_score": 9,
+    "percentage": 0.0,
+    "mcq_score": 0,
+    "mcq_correct": 0,
+    "desc_score": 0
+  }
+}

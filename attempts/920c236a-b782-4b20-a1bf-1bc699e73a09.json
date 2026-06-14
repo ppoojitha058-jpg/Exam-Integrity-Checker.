@@ -1,0 +1,135 @@
+{
+  "student_name": "prathibha",
+  "timestamp": "2025-11-26 13:07:31",
+  "mcqs": [
+    {
+      "question": "According to the text, what is India?",
+      "options": [
+        "cradle",
+        "heritage",
+        "towering",
+        "India"
+      ],
+      "answer": "India",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following best describes India?",
+      "options": [
+        "India",
+        "technology",
+        "ancient",
+        "called"
+      ],
+      "answer": "India",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the primary focus of Republic in this lesson?",
+      "options": [
+        "Satyameva",
+        "rainforests",
+        "tropical",
+        "Republic"
+      ],
+      "answer": "Republic",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In the context of the lesson, India refers to:",
+      "options": [
+        "bordered",
+        "economy",
+        "India",
+        "becoming"
+      ],
+      "answer": "India",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The text suggests that Himalayas is:",
+      "options": [
+        "tropical",
+        "rainforests",
+        "towering",
+        "Himalayas"
+      ],
+      "answer": "Himalayas",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which statement about Indian is correct?",
+      "options": [
+        "rainforests",
+        "Bengal",
+        "Indian",
+        "tropical"
+      ],
+      "answer": "Indian",
+      "difficulty": "hard"
+    }
+  ],
+  "mcq_answers": [
+    "India",
+    "India",
+    "Satyameva",
+    "India",
+    "Himalayas",
+    "Indian"
+  ],
+  "descriptives": [
+    {
+      "question": "Summarize the main idea of the lesson in your own words.",
+      "keywords": [
+        "reflect",
+        "Civilization",
+        "Jainism",
+        "growing",
+        "ancient"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "Explain the key concepts discussed in the lesson with examples.",
+      "keywords": [
+        "reflect",
+        "Civilization",
+        "Jainism",
+        "growing",
+        "ancient",
+        "vibrant",
+        "balance"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "How can you apply the knowledge from this lesson in real-world scenarios?",
+      "keywords": [
+        "reflect",
+        "Civilization",
+        "Jainism",
+        "growing",
+        "ancient",
+        "vibrant",
+        "balance",
+        "towering",
+        "Hinduism",
+        "economy"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "desc_answers": [
+    "",
+    "",
+    ""
+  ],
+  "score_data": {
+    "total_score": 10,
+    "max_score": 21,
+    "percentage": 47.62,
+    "mcq_score": 10,
+    "mcq_correct": 5,
+    "desc_score": 0
+  }
+}

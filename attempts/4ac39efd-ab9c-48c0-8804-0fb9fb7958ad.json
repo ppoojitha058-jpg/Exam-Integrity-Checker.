@@ -1,0 +1,135 @@
+{
+  "student_name": "prat",
+  "timestamp": "2025-11-26 12:00:09",
+  "mcqs": [
+    {
+      "question": "According to the text, what is China?",
+      "options": [
+        "treaties",
+        "country",
+        "China",
+        "century"
+      ],
+      "answer": "China",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following best describes People?",
+      "options": [
+        "Communist",
+        "arriving",
+        "Cultural",
+        "People"
+      ],
+      "answer": "People",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the primary focus of Republic in this lesson?",
+      "options": [
+        "unstable",
+        "Republic",
+        "Square",
+        "centuries"
+      ],
+      "answer": "Republic",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In the context of the lesson, China refers to:",
+      "options": [
+        "arriving",
+        "country",
+        "treaties",
+        "China"
+      ],
+      "answer": "China",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The text suggests that East is:",
+      "options": [
+        "East",
+        "culture",
+        "unstable",
+        "protests"
+      ],
+      "answer": "East",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which statement about Asia is correct?",
+      "options": [
+        "Asia",
+        "arriving",
+        "fragmented",
+        "country"
+      ],
+      "answer": "Asia",
+      "difficulty": "hard"
+    }
+  ],
+  "mcq_answers": [
+    "country",
+    "Communist",
+    "Republic",
+    "country",
+    "unstable",
+    "Asia"
+  ],
+  "descriptives": [
+    {
+      "question": "Summarize the main idea of the lesson in your own words.",
+      "keywords": [
+        "heavily",
+        "members",
+        "century",
+        "liberalization",
+        "billion"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "question": "Explain the key concepts discussed in the lesson with examples.",
+      "keywords": [
+        "heavily",
+        "members",
+        "century",
+        "liberalization",
+        "billion",
+        "Communist",
+        "treaties"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "question": "How can you apply the knowledge from this lesson in real-world scenarios?",
+      "keywords": [
+        "heavily",
+        "members",
+        "century",
+        "liberalization",
+        "billion",
+        "Communist",
+        "treaties",
+        "culture",
+        "unstable",
+        "turmoil"
+      ],
+      "difficulty": "hard"
+    }
+  ],
+  "desc_answers": [
+    "",
+    "",
+    ""
+  ],
+  "score_data": {
+    "total_score": 4,
+    "max_score": 21,
+    "percentage": 19.05,
+    "mcq_score": 4,
+    "mcq_correct": 2,
+    "desc_score": 0
+  }
+}
