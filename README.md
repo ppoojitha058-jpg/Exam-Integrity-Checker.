@@ -66,7 +66,7 @@ A beautiful, full-featured web application that transforms your study materials 
 
 1. **Clone or navigate to the project directory**
 ```bash
-cd c:\Users\Prathibha\Desktop\e
+cd c:\Users\User\Desktop\e
 ```
 
 2. **Create a virtual environment**
